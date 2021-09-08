@@ -5,3 +5,5 @@ proj1 - file-01 - line02
 proj1 - file-01 - line03 - branch2
 
 proj1 - file-01 - line04 - main
+
+proj1 - file-01 - line03 - branch2
